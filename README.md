@@ -59,6 +59,20 @@ Implemented backend REST APIs with input validation, centralized error handling,
 
 [View Repository](https://github.com/Srivats242/Rec-Center-Health-Tracker-Project)
 
+### 🌎 Voices United — SteelHacks XII
+
+Collaborated with a team during SteelHacks XII to develop a full-stack web application serving as a central hub for protest information and advocacy efforts.
+
+Built an interactive Pennsylvania map using third-party APIs, allowing users to add and explore protest locations with neighborhood information, descriptions, and attendance details.
+
+Developed a boycott leaderboard featuring voting and commenting functionality to encourage community engagement and accountability.
+
+Worked through database integration, API accuracy, and version-control challenges to deliver a functional application during the hackathon.
+
+Tech Stack: Python, Flask, MySQL, HTML, CSS, JavaScript
+
+[View Repository](https://github.com/Srivats242/Advocacy)
+
 ### 📊 Obesity Rate Prediction
 
 Built and evaluated Random Forest, Decision Tree, and Linear Regression models using **15,087 observations across 167 countries** to predict obesity prevalence.
