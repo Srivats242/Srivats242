@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I'm Srivats, a senior studying **Computer Science** with a minor in **Information Science** at the University of Pittsburgh, graduating in May 2027.
+Hi, I'm Srivats, a senior studying **Computer Science** with a minor in **Information Science** at the University of Pittsburgh, graduating in May 2027.
 
 💻 I'm passionate about **software engineering, artificial intelligence, and data engineering**. I enjoy building full-stack applications, working with data, and developing software that solves real-world problems.
 
