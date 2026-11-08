@@ -33,7 +33,7 @@ Developing a PDF document-processing application that extracts text, generates v
 
 ### 🎨 Automated Manga Page Compositor
 
-Built an interactive manga page editor that allows users to create customizable panels, position and resize images, add speech bubbles, and export completed pages as PNG files.
+Building an interactive manga page editor that allows users to create customizable panels, position and resize images, add speech bubbles, and export completed pages as PNG files.
 
 **Tech Stack:** Next.js, React, TypeScript, Tailwind CSS
 
