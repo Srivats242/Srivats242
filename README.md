@@ -47,6 +47,8 @@ Designed a star-schema data warehouse with SQL transformations and OLAP queries 
 
 **Tech Stack:** Python, Apache Kafka, MySQL, SQL, Docker
 
+[View Repository](https://github.com/Srivats242/Retail-Data-Pipeline-Data-Warehouse-Project)
+
 ### 🏋️ Rec Center Health Tracker
 
 Developed a full-stack health-tracking application using React, Node.js, Express, and PostgreSQL.
@@ -55,6 +57,8 @@ Implemented backend REST APIs with input validation, centralized error handling,
 
 **Tech Stack:** React, Node.js, Express, PostgreSQL, JWT, REST APIs
 
+[View Repository](https://github.com/Srivats242/Rec-Center-Health-Tracker-Project)
+
 ### 📊 Obesity Rate Prediction
 
 Built and evaluated Random Forest, Decision Tree, and Linear Regression models using **15,087 observations across 167 countries** to predict obesity prevalence.
@@ -62,6 +66,8 @@ Built and evaluated Random Forest, Decision Tree, and Linear Regression models u
 Achieved an **R² score of 0.748** using Random Forest after preprocessing and merging global datasets, outperforming the regression and decision-tree baselines.
 
 **Tech Stack:** Python, Pandas, Scikit-learn, Machine Learning
+
+[View Repository](https://github.com/Srivats242/Obesity-Rate-Prediction-Project)
 
 ## 🔬 Experience & Research
 
@@ -74,4 +80,4 @@ Achieved an **R² score of 0.748** using Random Forest after preprocessing and m
 I'm interested in opportunities involving **software engineering, AI/ML, and data engineering**, as well as collaborating on meaningful technical projects.
 
 - **GitHub:** [Srivats242](https://github.com/Srivats242)
-- **LinkedIn:** Add your LinkedIn profile URL here
+- **LinkedIn:** https://www.linkedin.com/in/srivats-pulumati-45766a219/
